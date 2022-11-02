@@ -12,6 +12,8 @@ public class for_each {
         }
 
         System.out.println(Arrays.toString(x));
+        System.out.println("Modified");
+        
     }
 
 }
