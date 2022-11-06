@@ -20,8 +20,7 @@ class ComplexNumber {
     }
 
     // function for addition
-    public static ComplexNumber add(ComplexNumber n1,
-                                    ComplexNumber n2)
+    public static ComplexNumber add(ComplexNumber n1, ComplexNumber n2)
     {
 
         // creating blank complex number
